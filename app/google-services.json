@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305379938010",
+    "project_id": "twilio-test-criferlo",
+    "storage_bucket": "twilio-test-criferlo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305379938010:android:ef3f4b9e997b59745d1fe3",
+        "android_client_info": {
+          "package_name": "com.hashitoapps.twiliotestcriferlo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305379938010-g19sa634r3uhm9b5jcsp15nub82sv57h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3yb12Fio70iVh_3fI9l9jCLvF1PgKaT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305379938010-g19sa634r3uhm9b5jcsp15nub82sv57h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
